@@ -27,3 +27,4 @@ C:\Users\deyvi\OneDrive\Escritorio\AppEmpresa\obj\Debug\net8.0\refint\AppEmpresa
 C:\Users\deyvi\OneDrive\Escritorio\AppEmpresa\obj\Debug\net8.0\AppEmpresa.pdb
 C:\Users\deyvi\OneDrive\Escritorio\AppEmpresa\obj\Debug\net8.0\AppEmpresa.genruntimeconfig.cache
 C:\Users\deyvi\OneDrive\Escritorio\AppEmpresa\obj\Debug\net8.0\ref\AppEmpresa.dll
+C:\Users\deyvi\OneDrive\Escritorio\AppEmpresa\obj\Debug\net8.0\AppEmpresa.sourcelink.json
