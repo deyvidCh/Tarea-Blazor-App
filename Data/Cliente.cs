@@ -3,7 +3,9 @@ using System.Text.Json.Serialization;
 public class Cliente
     {
         [JsonPropertyName("id_cliente")]
-        public Int32? Id_clientes { get; set; }
+        public Int32 Id_clientes { get; set; }
+        [JsonPropertyName("nit")]
+        public string? Nit { get; set; }
         [JsonPropertyName("nombres")]
         public string? Nombres { get; set; }
         [JsonPropertyName("apellidos")]
