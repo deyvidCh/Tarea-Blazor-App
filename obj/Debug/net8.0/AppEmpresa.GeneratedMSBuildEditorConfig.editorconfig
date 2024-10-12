@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppEmpresa
 build_property.RootNamespace = AppEmpresa
-build_property.ProjectDir = c:\Users\deyvi\OneDrive\Escritorio\AppEmpresa\
+build_property.ProjectDir = C:\Users\deyvi\OneDrive\Escritorio\AppEmpresa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\deyvi\OneDrive\Escritorio\AppEmpresa
+build_property.MSBuildProjectDirectory = C:\Users\deyvi\OneDrive\Escritorio\AppEmpresa
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/App.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Pages/Error.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Pages/Home.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Pages/Vcliente.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Pages/Vcliente.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWY2xpZW50ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Routes.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/_Imports.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Layout/MainLayout.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-6e83p0l6gm
 
-[c:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Layout/NavMenu.razor]
+[C:/Users/deyvi/OneDrive/Escritorio/AppEmpresa/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-cedvlvsnl9
