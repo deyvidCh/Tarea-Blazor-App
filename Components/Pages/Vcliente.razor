@@ -3,6 +3,7 @@
 @using System.Text.Json
 @using System.Text.Json.Serialization
 @inject IHttpClientFactory ClientFactory
+@inject IJSRuntime JS
 
 <h1>Formulario de Clientes</h1>
 
@@ -67,7 +68,7 @@ else
 
     private DateTime? var_fn;
     //Enviar Parametros a variables locales
-    void enviarParametros(Int32 id,string? ni,string? nom,string? ape,string? dir,string? tel,DateTime?f ){
+    void enviarParametros(Int32 id,string? ni,string? nom,string? ape,string? dir,string? tel,DateTime? f ){
         var_idcliente = id;
         var_nit = ni;
         var_nombres = nom;
